@@ -16,7 +16,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:  # 自定义环境变量
           branch: test
-          folder: dist
+          folder: src
           repository-name: pig-zhu/threeD/src # 这是我的 github page 仓库
           target-folder: /
           token: ${{ secrets.TOKEN }}
