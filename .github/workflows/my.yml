@@ -19,4 +19,4 @@ jobs:
           folder: dist
           repository-name: pig-zhu/threeD # 这是我的 github page 仓库
           target-folder: /
-          access_token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.TOKEN }}
