@@ -1,13 +1,11 @@
 import './App.css'
+import Three from './app/index'
+import Car from './app/car';
 
 function App() {
-
-	return (
-		<div className="App">
-			<p className="read-the-docs">
-				Hellow World
-			</p>
-		</div>
+    return (
+		// <Three />
+        <Car></Car>
 	)
 }
 
