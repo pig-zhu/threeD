@@ -32,6 +32,7 @@ jobs:
           folder: src  # 需要打包的文件目录
           repository-name: pig-zhu/threeD # 这是我的 github page 仓库
           target-folder: /
- 需要配置权限：
+ ## 需要配置权限：
       ![image](https://github.com/pig-zhu/threeD/assets/46115048/3801d8ff-1c8c-4158-bd59-2fc7ced0c2c7)
+## 需设置base路径: 本地为 / ; 线上发布为 /git仓库名字/
 
